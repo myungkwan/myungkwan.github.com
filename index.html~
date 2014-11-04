@@ -1,0 +1,99 @@
+
+<div id="container" style="width:100%;">
+
+<div id="header" style="background-color:#FFA500;width:1024px;height:152px;margin:auto;">
+
+<div id="banner" style="background-color:#111111;width:331px;float:left;">
+<a href = "http://myungkwan.github.com/"><img src="C:\Users\mykwan127\Desktop\zz.jpg" /></a>
+
+</div>
+
+<div id="door" style="background-color:#FFD700;width:100px;height:100px;float:left;">
+<img src="C:\Users\mykwan127\Desktop\door.jpg" />
+</div></div>
+
+<div id"middle" style="background-color:#555555;width:1024px;height:152px;margin:auto;">
+
+<div id="menu" style="background-color:#666666;width:331px;float:left;">
+
+<div id="name" style="background-color:white;width:100%;height:100%;float:left;">
+<img src="C:\Users\mykwan127\Desktop\noise.jpg" />
+</div>
+<div id="intro" style="background-color:#FFD700;width:100%;height:71%;float:left;">
+오명관(나이,26살 닉쿤의 외모를 소유한 자)
+황상연(나이,25살 신정환의 외모를 소유한 자)
+송정환(나이,25살 케이윌의 외모를 소유한 자)
+</div>
+<div id="calendar" style="background-color:#FFFFFF;width:100%;height:30px;float:left;padding-left:55px">
+<iframe src="C:\Users\mykwan127\Desktop\cal.html" style="border: 0" width="800" height="200" frameborder="0" scrolling="no" align="middle"></iframe>
+</div>
+
+</div>
+
+<div id="content" style="background-color:#EEEEEE;width:693px;height:450px;float:left;">
+
+<div id="foorLoop" style="background-color:#ffffff;width:229px;float:left;">
+<p> 반복문</p>
+</div>
+<div id="quiz" style="background-color:#ffffff;width:229px;float:left;">
+<p> Quiz!</p>
+</div>
+<div id="answer" style="background-color:#ffffff;width:229px;float:left;">
+<p>solution</p>
+</div>
+
+
+<div id="inside" style="background-color:#ffd700;width:100%;height:70%;float:left;">
+
+<div id="movie1" style="background-color:#FFD700;width:50%;height:50%;float:left;">
+<embed src="http://www.youtube.com/v/aN2isQuL22Q&hl=ko_KR&vq=hd1080" type="application/x-shockwave-flash" width=340" height="210" allowfullscreen="true">
+</div>
+<div id="movie2" style="background-color:#FFD700;width:50%;height:210px;float:left;">
+<p>[프리렉] </p>
+<p>제목 :for문과 while문에 대한 설명</p>
+<p>도서 : [열혈강의]c언어 정복 리얼 교과서</p>
+<p>저자 : 이상진
+</p>
+
+</div>
+<div id="img1" style="background-color:#FFD700;width:50%;height:250px;float:left;">
+<p>반복문(for)의 사용방법</p>
+<p>
+</div>
+<div id="img2" style="background-color:#FFD700;width:50%;height:100%;float:left;">
+<img src="http://pds25.egloos.com/pds/201210/31/39/f0183439_509118ceaba85.png" width="360px" height="200" />
+</div>
+
+</div>
+
+</div>
+
+</div>
+<div id="sites" style="background-color:#FFD700;width:1024px;height:10%;margin:auto;">
+
+<div id="relation1" style="background-color:#FFD700;width:33.3%;float:left;">
+<a href = "http://www.orentec.co.kr/"><img src="C:\Users\mykwan127\Desktop\orange.jpg"/></a>
+</div>
+<div id=" width="50" height="50"" style="background-color:#FFD700;width:33.3%;float:left;"relation2>
+<a href = "http://www.freelec.co.kr/"><img src="C:\Users\mykwan127\Desktop\freelec.jpg"/></a>
+
+</div>
+<div id="relation3" style="background-color:#FFD700;width:33.4%;float:left;">
+<a href = "http://itguru.tistory.com/"><img src="C:\Users\mykwan127\Desktop\it.jpg"/></a>
+</div>
+
+</div>
+
+<div id="comment" style="background-color:#FFD700;width:1024px;height:8%;clear:both;margin:auto; text-align:center; color:black; font-style:italic">
+Copyright © 2014 한국기술교육대학교 컴퓨터공학부 teamproject! by. 송상관
+</div>
+
+</div>
+
+
+
+
+
+
+
+
