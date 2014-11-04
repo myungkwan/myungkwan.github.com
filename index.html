@@ -1,23 +1,95 @@
----
-layout: default
----
+<script language=javascript>
+ function go() {
+  location.href="http://myungkwan.github.com"
+}
+</script>
 
-<div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+<div id="container" style="background-color:#ffffff;width:100%;">
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+<div id="header" style="width:1024px;height:157px;margin:auto;">
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+<div onclick=go() id="banner" style="background-color:#ffffff;width:331px;float:left;">
+<img src="zz.jpg" />
+
+</div>
+
+<div id="door" style="width:693px;height:135px;float:left;">
+<img src="./door.jpg" />
+
+<div id="door2" style="width:693px;height:22px;">
+<div id="foorLoop" style="background-image:url(background.png);width:173px;float:left; text-align:center;"><a href="introduction.html">반복문</a>
+</div>
+<div id="quiz" style="background-image:url(background.png);width:173px;float:left;text-align:center;"><a href="exercise.html">QUIZ</a>
+
+</div>
+<div id="answer" style="background-image:url(background.png);width:173px;float:left;text-align:center;"><a href="solution.html">SOLUTION</a>
+</div>
+<div id="qna" style="background-image:url(background.png);width:173px;float:left;text-align:center;"><a href="qna.html">Q&A</a>
+</div>
+</div>
+</div>
+</div>
+
+<div id"middle" style="background-color:#ffffff;width:1024px;height:450px;margin:auto;">
+
+<div id="menu" style="background-color:#ffffff;width:331px;float:left;">
+
+<div id="name" style="background-color:#ffffff;width:100%;height:35%;float:left;"><img src="noise.jpg" />
+</div>
+<div id="intro" style="background-color:#ffffff;width:100%;height:20%;float:left;font-family:'Comic Sans MS', cursive">
+오명관(나이,26살 닉쿤의 외모를 소유한 자)
+황상연(나이,25살 신정환의 외모를 소유한 자)
+송정환(나이,25살 케이윌의 외모를 소유한 자)
+</div>
+<div id="calendar" style="width:100%;height:45%;float:left;padding-left:55px">
+	<iframe src="cal.html" style="border:0;align:middle;height:200px;">	</iframe>
+</div>
+
+</div>
+
+<div id="content" style="background-color:#ffffff;width:693px;float:left;">
+<div id="movie1" style="background-color:#ffffff;width:50%;height:50%;float:left;">
+<embed src="http://www.youtube.com/v/aN2isQuL22Q&amp;hl=ko_KR&vq=hd1080" type="application/x-shockwave-flash" width=345 height="209" allowfullscreen="true";>
+</div>
+<div id="movie2" style="background-color:#ffffff;width:50%;height:50%;float:left;font-family:'Comic Sans MS', cursive; text-align:center;">
+<p>[프리렉] </p>
+<p>제목 :for문과 while문에 대한 설명</p>
+<p>도서 : [열혈강의]c언어 정복 리얼 교과서</p>
+<p>저자 : 이상진
+</p>
+
+			</div>
+			<div id="img1" style="background-color:#ffffff;width:50%;height:50%;float:left;">
+<img src="http://pds25.egloos.com/pds/201210/31/39/f0183439_509118ceaba85.png" width="345" height="205" />
+			</div>
+			<div id="img2" style="background-color:#ffffff;width:50%;height:50%;float:left;font-family:'Comic Sans MS', cursive; text-align:center;">
+<p>반복문(for)의 사용방법</p>
+<p>출처:http://hellojs.egloos.com/viewer/596091</p>
+			</div>
+
+
+	</div>
+
+</div>
+<div id="sites" style="background-color:#ffffff;width:1024px;height:30px;margin:auto;">
+
+<div id="relation1" style="background-color:#ffffff;width:33.3%;float:left;">
+<a href = "http://www.orentec.co.kr/"><img src="orange.jpg"/></a>
+</div>
+<div id="relation2" style="width:33.3%;float:left;">
+<a href = "http://www.freelec.co.kr/"><img src="freelec.jpg"/></a>
+
+</div>
+<div id="relation3" style="background-color:#ffffff;width:33.4%;float:left;">
+<a href = "http://itguru.tistory.com/"><img src="it.jpg"/></a>
+</div>
+
+</div>
+
+<div id="comment" style="background-image:url(background.png);width:1024px;height:20px;clear:both;margin:auto; text-align:center; color:black; font-style:italic">
+Copyright &copy; 2014 한국기술교육대학교 컴퓨터공학부 teamproject! by. 송상관
+</div>
 
 </div>
